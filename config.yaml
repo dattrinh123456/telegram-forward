@@ -1,0 +1,13 @@
+targets:
+- -4321217740
+sources: []
+exclude_sources: []
+mode: forward
+include_outgoing: false
+delay: 1.0
+block_bots: true
+link_filters:
+  domains: []
+  exclude_domains: []
+  keywords: []
+  regex: []

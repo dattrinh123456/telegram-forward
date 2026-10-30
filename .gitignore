@@ -1,0 +1,9 @@
+# Bí mật – KHÔNG đưa lên GitHub
+.env
+*.session
+*.session-journal
+
+# File sinh ra khi chạy
+logs/
+__pycache__/
+*.pyc
